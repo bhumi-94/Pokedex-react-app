@@ -1,16 +1,54 @@
-# React + Vite
+🚀 Pokédex React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive Pokédex web application built using React that allows users to explore Pokémon, view detailed stats, and search their favorite characters in real time.
 
-Currently, two official plugins are available:
+🔗 Live Demo: https://pokedex-react-app-xi.vercel.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+📌 Overview
 
-## React Compiler
+This project is a dynamic Pokédex that fetches real-time Pokémon data from an external API and presents it in a clean, user-friendly interface. It demonstrates strong fundamentals of React, API integration, and UI design.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The app allows users to:
 
-## Expanding the ESLint configuration
+🔍 Search Pokémon by name.
+⚡ Navigate smoothly between Pokémon.
+📱 Experience a fully responsive design.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🛠️ Tech Stack:
+
+⚛️ React.js.
+⚡ Vite.
+🎨 CSS / Tailwind.
+🌐 PokéAPI (for data fetching).
+🚀 Vercel (Deployment).
+
+✨ Features:
+
+🔎 Real-time Search Functionality.
+📦 API Integration with Dynamic Data Rendering.
+🎯 Component-Based Architecture.
+📱 Responsive UI for Mobile & Desktop.
+⚡ Fast Performance with Vite.
+
+📂 Project Structure
+src/
+│── components/
+│── App.jsx
+│── main.jsx
+
+🎯 What I Learned: 
+
+Working with REST APIs and async data.
+Managing state in React.
+Component reusability and clean architecture.
+Deploying production-ready apps.
+
+
+Contributions are welcome! Feel free to fork the repo and submit a PR.
+
+📬 Contact
+GitHub: https://github.com/bhumi-94
+LinkedIn: www.linkedin.com/in/bhoomi-kaushik-145081356
+
+
+⭐ Show Your Support
