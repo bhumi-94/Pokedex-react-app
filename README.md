@@ -1,54 +1,63 @@
-🚀 Pokédex React App
+# 🚀 Pokédex React App
 
-A modern, responsive Pokédex web application built using React that allows users to explore Pokémon, view detailed stats, and search their favorite characters in real time.
+A modern, responsive **Pokedex web application** built using React that allows users to explore Pokémon, view detailed stats, and search their favorite characters in real time.
 
-🔗 Live Demo: https://pokedex-react-app-xi.vercel.app
+🔗 **Live Demo:**  
+https://pokedex-react-app-xi.vercel.app/
 
-📌 Overview
+---
 
-This project is a dynamic Pokédex that fetches real-time Pokémon data from an external API and presents it in a clean, user-friendly interface. It demonstrates strong fundamentals of React, API integration, and UI design.
+## 📌 Overview
 
-The app allows users to:
+This project is a dynamic Pokédex that fetches real-time Pokemon data from an external API and presents it in a clean, user-friendly interface. It demonstrates strong fundamentals of **React, API integration, and UI design**.
 
-🔍 Search Pokémon by name.
-⚡ Navigate smoothly between Pokémon.
-📱 Experience a fully responsive design.
+### The app allows users to:
+- 🔍 Search Pokémon by name  
+- ⚡ Navigate smoothly between Pokémon  
+- 📱 Experience a fully responsive design  
 
-🛠️ Tech Stack:
+---
 
-⚛️ React.js.
-⚡ Vite.
-🎨 CSS / Tailwind.
-🌐 PokéAPI (for data fetching).
-🚀 Vercel (Deployment).
+## 🛠️ Tech Stack
 
-✨ Features:
+- ⚛️ React.js  
+- ⚡ Vite  
+- 🎨 CSS / Tailwind  
+- 🌐 PokéAPI (for data fetching)  
+- 🚀 Vercel (Deployment)  
 
-🔎 Real-time Search Functionality.
-📦 API Integration with Dynamic Data Rendering.
-🎯 Component-Based Architecture.
-📱 Responsive UI for Mobile & Desktop.
-⚡ Fast Performance with Vite.
+---
 
-📂 Project Structure
-src/
-│── components/
-│── App.jsx
-│── main.jsx
+## ✨ Features
 
-🎯 What I Learned: 
+- 🔎 Real-time Search Functionality  
+- 📦 API Integration with Dynamic Data Rendering  
+- 🎯 Component-Based Architecture  
+- 📱 Responsive UI for Mobile & Desktop  
+- ⚡ Fast Performance with Vite  
 
-Working with REST APIs and async data.
-Managing state in React.
-Component reusability and clean architecture.
-Deploying production-ready apps.
+---
 
+## 🎯 What I Learned
+
+- Working with REST APIs and async data  
+- Managing state in React  
+- Component reusability and clean architecture  
+- Deploying production-ready apps  
+
+---
+
+## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork the repo and submit a PR.
 
-📬 Contact
-GitHub: https://github.com/bhumi-94
-LinkedIn: www.linkedin.com/in/bhoomi-kaushik-145081356
+---
 
+## 📬 Contact
 
-⭐ Show Your Support
+- GitHub: https://github.com/bhumi-94  
+- LinkedIn: https://www.linkedin.com/in/bhoomi-kaushik-145081356  
+
+---
+
+## ⭐ Show Your Support
